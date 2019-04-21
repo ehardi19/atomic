@@ -2,11 +2,9 @@
 
 ## Installation
 
-``go get github.com/gin-gonic/gin``
+Clone this repository ``git clone https://github.com/ehardi19/atomic.git``
 
-``go get github.com/jinzhu/gorm``
-
-``go get github.com/jinzhu/gorm/dialects/sqlite``
+or
 
 ``go get github.com/ehardi19/atomic``
 
